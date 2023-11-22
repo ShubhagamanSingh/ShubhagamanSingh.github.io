@@ -181,8 +181,8 @@ table {
 
 html {
   font: 500 100%/1.4 system-ui;
-  /* background-color: #ccc; */
-  background: url(img/bg2.JPG);
+  background-color: #ccc;
+/*   background: url(img/bg2.JPG); */
 }
 
 #body {
